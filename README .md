@@ -171,3 +171,10 @@ The dataset is simulated and does not represent a real retailer or
 actual customer transactions. Inventory-risk labels use working rules
 created for this project. The results are indicators for further
 analysis rather than confirmed business outcomes.
+## Dashboard Screenshots
+
+### Page 1 — Inventory Overview & Risk
+![Inventory Overview](inventory-overview.png)
+
+### Page 2 — Demand Patterns
+![Demand Patterns](demand-patterns.png)
